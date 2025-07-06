@@ -1,16 +1,52 @@
-# test_recipe
+# 📱 Aplikasi Resep Masakan Asia - Kelompok 4
 
-A new Flutter project.
+Aplikasi Flutter sederhana yang menampilkan daftar resep masakan Asia menggunakan API Edamam dan juga memungkinkan pengguna menambahkan resep secara manual ke dalam database lokal SQLite.
 
-## Getting Started
+## 🧩 Fitur Utama
 
-This project is a starting point for a Flutter application.
+- 🔍 Pencarian resep berdasarkan kata kunci, jenis hidangan (sarapan, makan siang, dll), dan label kesehatan.
+- 📦 Menampilkan informasi detail dari resep termasuk kalori, bahan, label diet dan kesehatan, serta nutrisi.
+- 📝 Menambahkan resep secara manual yang akan disimpan di SQLite lokal.
+- 🧽 Menghapus resep manual berdasarkan label.
+- 🌐 Menampilkan sumber resep dari internet.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Tangkapan Layar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Beranda
+![Home](assets/images/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tambah Resep Manual
+![Add Manual](assets/images/recipemanual.png)
+
+### Detail Resep
+![Detail](assets/images/detailrecipe.png)
+
+### Resep Manual Tersimpan
+![Manual](assets/images/recipemanualtersimpan.png)
+
+
+
+## 📦 Teknologi yang Digunakan
+
+- Flutter
+- Dart
+- Edamam API
+- SQLite (sqflite)
+- Android Studio / VS Code
+
+## ⚙️ Cara Menjalankan
+
+1. Clone repositori:
+   git clone https://github.com/username/nama-project.git
+   cd nama-project
+   
+2. Install dependencies:
+   flutter pub get
+
+3. Jalankan di emulator atau perangkat:
+   flutter run
+
+## 🙋 Kelompok 4
+
+- Fitri Atika Salwa (4522210080)
+- Gina Annisa (4522210154)
