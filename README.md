@@ -22,7 +22,7 @@ Aplikasi Flutter sederhana yang menampilkan daftar resep masakan Asia menggunaka
 ![Detail](assets/images/detailrecipe.png)
 
 ### Resep Manual Tersimpan
-![Manual](assets/images/recipemanualtersimpan.png)
+![Manual](assets/images/resepmanualtersimpan.png)
 
 
 
