@@ -24,8 +24,6 @@ Aplikasi Flutter sederhana yang menampilkan daftar resep masakan Asia menggunaka
 ### Resep Manual Tersimpan
 ![Manual](assets/images/resepmanualtersimpan.png)
 
-
-
 ## 📦 Teknologi yang Digunakan
 
 - Flutter
@@ -37,8 +35,8 @@ Aplikasi Flutter sederhana yang menampilkan daftar resep masakan Asia menggunaka
 ## ⚙️ Cara Menjalankan
 
 1. Clone repositori:
-   git clone https://github.com/username/nama-project.git
-   cd nama-project
+   git clone https://github.com/fitras2903/pbm_recipe_kel4_fiks.git
+   cd pbm_recipe_kel4_fiks
    
 2. Install dependencies:
    flutter pub get
